@@ -1,1 +1,2 @@
-# IP-Based-8-Bit-Full-Adder-Design-on-Xilinx-Vivado.
+# IP-Based-8-Bit-Full-Adder-Design-on-Xilinx-Vivado
+This repository showcases the design and implementation of an IP-based 8-bit full adder on Xilinx Vivado. The project aims to provide a reusable and efficient full adder module that can be easily integrated into larger FPGA designs. By leveraging Xilinx Vivado's IP packaging and management capabilities, this 8-bit full adder is designed for optimal performance and easy integration.
